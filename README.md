@@ -11,7 +11,7 @@ Hola si gustas desplegar la pagina te daré los pasos que yo seguí
 
 3-Utiliza el codigo en las secciones llamadas js,css,Mi_pagina_web inicio.html.
 
-4-Corre la extención live server, se abrira una pestaña de tu navegador por defecto, muy probablemente edge, y veeras el contenido.
+4-Corre la extención live server, se abrirá una pestaña de tu navegador por defecto, muy probablemente edge, y veras el contenido.
 
 
 
